@@ -1,9 +1,8 @@
 # pensamiento-computacional-sec6
 ejercicios y entregas de código
 
-#Titulo#
 
-##Subtitulo##
+## Primer ejercicio de código
 
 **Negita**
 *Italica*
@@ -17,18 +16,3 @@ ejercicios y entregas de código
 
 una imagen de ruta:
 ![imagen](imagenes/beluga.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
